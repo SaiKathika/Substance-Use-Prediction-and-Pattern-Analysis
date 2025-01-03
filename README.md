@@ -23,7 +23,7 @@ This project focuses on analyzing patterns and predicting substance use using bo
 ## Installation
 
 ### Prerequisites
-Ensure you have Python 3.8 or higher installed on your machine.
+Ensure you have Python 3.8 or higher installed on your machine.<br/>
 [Download the dataset](https://www.samhsa.gov/data/data-we-collect/nsduh/datafiles?year=2017&data_collection=1137)
 
 ### Setup Instructions
