@@ -28,6 +28,6 @@ Ensure you have Python 3.8 or higher installed on your machine.
 ### Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Substance-Use-Prediction-and-Pattern-Analysis.git
+   git clone https://github.com/SaiKathika/Substance-Use-Prediction-and-Pattern-Analysis.git
    cd Substance-Use-Prediction-and-Pattern-Analysis
 
