@@ -36,4 +36,29 @@ This project focuses on analyzing patterns and predicting substance use using bo
    ```bash
    pip install -r requirements.txt
 
-   
+3. Download the dataset using the above link
+
+4. Run Supervised Models
+   With Sampling
+   ```bash
+   python classification_with_sampling.ipynb
+   ```
+   Without Sampling
+   ```bash
+   python classification_without_sampling.ipynb
+   ```
+
+5. Run Unsupervised Models
+   1. Data Processing
+      ```bash
+      python 1_Data_Processing.ipynb
+      ```
+   2. KNN Imputation (To Handle missing values)
+      ```bash
+      python 2_KNN_Imputation.ipynb
+      ```
+   3. Apply PCA and PCA with KMeans on the data
+      ```bash
+      python 3_PCA_KMeans.ipynb
+
+           
