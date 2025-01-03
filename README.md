@@ -31,3 +31,8 @@ Ensure you have Python 3.8 or higher installed on your machine.
    git clone https://github.com/SaiKathika/Substance-Use-Prediction-and-Pattern-Analysis.git
    cd Substance-Use-Prediction-and-Pattern-Analysis
 
+2. Install the required Packages:
+   ```bash
+   pip install -r requirements.txt
+
+   
